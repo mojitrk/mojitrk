@@ -1,13 +1,11 @@
-<h1 align="center">Ay, I'm Mohit</h1>
-<h3 align="center">Just a student with too much time on my hands</h3>
+<h1 align="center">Hey, I'm Mojitrk</h1>
+<h3 align="center">Student, game developer & programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mojitrk&label=Profile%20views&color=0e75b6&style=flat" alt="mojitrk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojitrk" alt="mojitrk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mojitrk" target="blank"><img src="https://img.shields.io/twitter/follow/mojitrk?logo=twitter&style=for-the-badge" alt="mojitrk" /></a> </p>
-
-- 🌱 I’m currently learning **Full stack web development, game development and a little bit of machine learning**
 
 - 👨‍💻 All of my projects are available at [https://mojitrk.github.io](https://mojitrk.github.io)
 
