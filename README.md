@@ -9,7 +9,7 @@ A freelance game programming screwing around with MLOPS tech
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"> <br>
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"> 
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
