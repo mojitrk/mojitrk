@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/mojitrk/mojitrk/assets/charactercard.jpg" width="25%" align="right" />
+<img src="https://github.com/mojitrk/mojitrk/charactercard.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines='allo;I'm+mojitrk%2C+a+guy+who+does+games+yeah+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
