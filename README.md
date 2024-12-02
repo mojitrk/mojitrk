@@ -3,7 +3,7 @@
 
 <br><br>
 <pre>
-    hey
+    ai ★ ml ★ dl ★ game dev
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
